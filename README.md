@@ -16,12 +16,12 @@ If you find the work useful in your research, kindly cite the following:
 @article{doi,
   author = {Teslim Olayiwola; Luis A. Briceno-Mena; Christopher G. Arges; Jose A. Romagnoli},
   title = {Synergizing Data-Driven and Knowledge-based hybrid models for Ionic Separation},
-  journal = {Submitted to Chemical Engineering Journal},
+  journal = {Submitted to ACS ES&T Engineering},
   year = {n/a},
   volume = {n/a},
   number = {n/a},
   doi = {https://doi.org/},
-  preprint = {n/a}
+  preprint = {https://chemrxiv.org/engage/chemrxiv/article-details/6674a85c5101a2ffa81a2b24}
 }
 ```
 
